@@ -8,3 +8,19 @@
   due to the lack of effective analytics the company faced a major loss in Latin America.
 
   Senior executives of this company have decided to invest in a data analytics project and have assigned a team for this work.
+
+# Tasks : 
+# Finance View : 
+  Show Profit and loss statement to understand financial performance across Markets, Products, Customers etc.
+
+# Sales View : 
+  Show Top/Bottom Customers along with Key Metrics. A matrix would be preferable to understand their performance 
+
+# Marketing View :
+  Same as Sales View but for Products
+
+# Supply Chain :
+  Reliability, Forecast Accuracy in a view to understand SC Performance
+
+# Executive View :
+  Integrated view of key insights for executives. (More details TBD)
