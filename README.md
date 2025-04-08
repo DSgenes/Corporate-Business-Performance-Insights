@@ -186,7 +186,7 @@
 
 • Fetch only the details of dates column.It'll get the date column for month.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/34e8f29b7f90cff7c9a1f1f03ee315a00238faa7/Screenshot%2020.png)
 
 • By writing this code you'll get your actual sales current month. Basically this is the date till which you have your 
   actual sales data available. Double click on this table and rename it as LastSalesMonth.
