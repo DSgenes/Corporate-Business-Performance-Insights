@@ -168,9 +168,9 @@
   Benchmark that we're given is 86.82346 M in the data log provided by the product owner. So the data, the quantity we are getting in
   Power BI is actually less than the benchmark numbers that are given to us. So now, the Peter, the data analyst will reach out to 
   servicing who is a data engineer. They'll communicate on Teams chat and try to figure out the issue. After checking this out, 
-  there's a new product launch after GPM etc. After fixing this gap the ratio will match with the provided data log.
+  there's a new product launch after GPM etc. After fixing this gap the ratio will be matched with the provided data log.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/51ebbf530bdff7c57eed9edb3b35fd7a24049959/Screenshot%2018.png)
 
 
 
