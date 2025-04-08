@@ -24,3 +24,19 @@
 
 # Executive View :
   Integrated view of key insights for executives. (More details TBD)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+# Step 1 : Data Collection and Preparation
+
+# Data Source : Database
+
+# Database : gdb041                                          gdb056
+# Tables   : 
+            • dim_customer                                  • frieght_cost                                 
+            • dim_market                                    • gross_price
+            • dim_product                                   • manufacturing_cost
+            • fact_forecast_monthly                         • post_invoice_deductions
+            • fact_sales_monthly                            • pre_invoice_deductions
+            
+• Get Data from another source ➜ MySQL Database ➜ Enter Your Server and Database Name ➜ gdb041 (Database Name)
