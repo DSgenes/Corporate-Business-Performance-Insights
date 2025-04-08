@@ -212,7 +212,7 @@
 
   Click on Append Queries ➜ Append Queries as New ➜ Name it as 'FactActualsEstimates'
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/b607bae4a90250f4722e47322c50aeec1ef91d31/Screenshot%2024.png)
 
 ![image_alt]()
 
