@@ -79,13 +79,13 @@
 
 • Write this code and you'll see the nice dates coming in.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/656ca0bf38603646d0b3ac0523e8a91bcf4be554/Screenshot%205.png)
 
 • To convert this list into date table.
 
 • Selecting the 'List' Column ➜ To Table ➜ OK
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/656ca0bf38603646d0b3ac0523e8a91bcf4be554/Screenshot%206.png)
 
 ![image_alt]()
 
@@ -95,7 +95,7 @@
 
 • Rename Query to dim_date table.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/656ca0bf38603646d0b3ac0523e8a91bcf4be554/Screenshot%207.png)
 
  ![image_alt]()
 
