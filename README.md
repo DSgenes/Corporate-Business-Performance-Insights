@@ -31,12 +31,71 @@
 
 # Data Source : MySQL Database
 
-# Databases : gdb041                                             gdb056
+# Database : gdb041                                             
 # Tables   : 
-            • dim_customer                                  • frieght_cost                                 
-            • dim_market                                    • gross_price
-            • dim_product                                   • manufacturing_cost
-            • fact_forecast_monthly                         • post_invoice_deductions
-            • fact_sales_monthly                            • pre_invoice_deductions
+            • dim_customer                                                                   
+            • dim_market                                    
+            • dim_product                                   
+            • fact_forecast_monthly                         
+            • fact_sales_monthly                            
+
+# Database : gdb056
+# Tables   :
+            • frieght_cost
+            • gross_price
+            • manufacturing_cost
+            • post_invoice_deductions
+            • pre_invoice_deductions
             
-• Get Data from another source ➜ MySQL Database ➜ Enter Your Server and Database Name ➜ gdb041 (Database Name)
+• Get Data from another source ➜ MySQL Database ➜ Enter Your Server and Database Name ➜ gdb041 (Database Name) ➜ OK
+
+# Step 2 : Data Exploration and Analysis
+
+# Transformations in Power Query Editor
+
+# Grouping Data :
+
+• Grouping data into dimension and fact tables and place the dim tables under Dimesions group and  facts tables under Facts. 
+
+• Right Click on any of table ➜ Move to Group ➜ New Group
+
+![image_alt]()
+
+• Name it 'Dimesions'.Click 'OK'. Now place all the dim tables under this group by drag and drop.
+
+![image_alt]() 
+
+• Use the same approach for creating 'Facts' Group. And place all fact tables under this group by drag and drop.
+
+![image_alt]()
+
+# Create a Separate Date Table 
+
+• New Source ➜ Blank Query
+
+![image_alt]()
+
+• 
+
+![image_alt]()
+
+•
+
+![image_alt]()
+
+• 
+
+![image_alt]()
+
+ ![image_alt]()
+
+ ![image_alt]()
+
+ ![image_alt]()
+
+ ![image_alt]()
+
+ ![image_alt]()
+
+
+
