@@ -234,7 +234,7 @@
   So I need to merge gross_price table and fact_actuals_estimates table with thses two columns product_code
   and fiscal_year.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/b956a1c25b65d113dd5c9cda6c96c9f5586edc72/Screenshot%2025.png)
 
 • You can just ignore privacy levels. Because you're working from your local computer but if you're working from an organization
   then select it as Organizational by deselecting Ignore Privacy Level, etc.
