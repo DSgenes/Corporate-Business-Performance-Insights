@@ -201,7 +201,7 @@
 
 • Select any filter on date column to create this formula.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/a5deb53a8e61e896de247093db964104fdb02cfc/Screenshot%2022.png)
 
 • Now I can use this formula and say my date should be greater than LastSalesMonth. My LastSalesMonth was 01/12/2021. 
   Do the sort ascending to see the dates starts from after that.So it is starting from 1st of January, 2022.
