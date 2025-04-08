@@ -115,9 +115,27 @@
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/5c90ae3b6ef56b422c2478611f792cd15e590d22/Screenshot%2011.png)
 
-•
+• Now, make the fiscal year such that when its September 2017 I want it to be 2018 because that's when the new , the first month of the fiscal year 
+  starts. Re-evaluate the formula. Add 4 months because Sep, Oct, Nov, Dec after these 4 months the next year starts.
 
 ![image_alt]()
+
+• Change the fiscal_year column datatype to 'Text'.
+
+![image_alt]()
+
+• Close & Apply and Save all the changes.
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
 
 
 
