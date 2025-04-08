@@ -206,7 +206,7 @@
 • Now I can use this formula and say my date should be greater than LastSalesMonth. My LastSalesMonth was 01/12/2021. 
   Do the sort ascending to see the dates starts from after that.So it is starting from 1st of January, 2022.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/f61d693ab5ef71991668e6f227bae12ac59f9c5b/Screenshot%2023.png)
 
 • Create a new third table. And combined fact_sales_monthly and Remaining Forecast together by using Append Queries as New.
 
