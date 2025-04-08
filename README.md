@@ -154,7 +154,7 @@
 
 • Its mentioned in the Data log as 345 in Year 2022.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/098840095eeaffdf67242535792ad309ad04a192/Screenshot%2015.png)
 
 ![image_alt]()
 
