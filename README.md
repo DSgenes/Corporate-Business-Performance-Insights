@@ -191,7 +191,7 @@
 • By writing this code you'll get your actual sales current month. Basically this is the date till which you have your 
   actual sales data available. Double click on this table and rename it as LastSalesMonth.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/f3f14c0fa4c0311bef216d8faaa9b431d33071e0/Screenshot%2021.png)
 
 ![image_alt]()
 
