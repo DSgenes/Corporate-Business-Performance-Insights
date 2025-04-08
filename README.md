@@ -160,6 +160,8 @@
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/a56c913c5f8f98a9d4d75d60f707da25f618fa4e/Screenshot%2016.png)
 
+• So in 2022 AtliQ sold the hardware to 27 different Markets.As it's mentioned in th Data log.
+ 
 ![image_alt]()
 
 ![image_alt]()
