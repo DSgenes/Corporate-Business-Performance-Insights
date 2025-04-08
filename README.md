@@ -164,6 +164,17 @@
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/4726230baf03568ef08f4ce68845f9297b3ba263/Screenshot%2017.png)
 
+• Now verifying Sales Quantity and Forecast Quantity. The problem we encounter is that the forecast quantity for 2022 is 86447417 but the 
+  Benchmark that we're given is 86.82346 M in the data log provided by the product owner. So the data, the quantity we are getting in
+  Power BI is actually less than the benchmark numbers that are given to us. So now, the Peter, the data analyst will reach out to 
+  servicing who is a data engineer. They'll communicate on Teams chat and try to figure out the issue. After checking this out, 
+  there's a new product launch after GPM etc. After fixing this gap the ratio will match with the provided data log.
+
+![image_alt]()
+
+
+
+
 ![image_alt]()
 
 ![image_alt]()
