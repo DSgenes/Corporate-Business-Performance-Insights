@@ -148,6 +148,12 @@
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/38dc025e5d8bb064aa37292942ec89eb51513cdc/Screenshot%2014.png)
 
+# First Verify the Value for Product Sold in Power BI
+
+• Calculate the distinct product code sold during that year.
+
+• Its mentioned in the Data log as 345 in Year 2022.
+
 ![image_alt]()
 
 ![image_alt]()
