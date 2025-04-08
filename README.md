@@ -172,12 +172,43 @@
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/51ebbf530bdff7c57eed9edb3b35fd7a24049959/Screenshot%2018.png)
 
+# Building a Table mixed with Actuals and Forecasts Values
 
+# First Find the Current Month
 
+• One way of getting current month would be get the last date in your actual table which is fact_sales_monthly table.
+
+• Create a Reference table for this. 
+
+• Right click on fact_sales_monthly table ➜ Reference 
+
+![image_alt]()
+
+• Fetch only the details of dates column.It'll get the date column for month.
+
+![image_alt]()
+
+• By writing this code you'll get your actual sales current month. Basically this is the date till which you have your 
+  actual sales data available. Double click on this table and rename it as LastSalesMonth.
 
 ![image_alt]()
 
 ![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
 
 
 
