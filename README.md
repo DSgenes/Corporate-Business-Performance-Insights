@@ -146,7 +146,7 @@
   Ensuring that all analysis is done in the context of the fiscal year, specifically aligning the data against the 
   fiscal year structure for more accurate insights.
 
-![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/e593c5605a13b29159114bb5580ca93e3b2c1159/benchmark-numbers%20(5).docx)
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/81f5e1d65dcaf2967c667f3465f0d0a47cf35879/Screenshot%2013.png)
 
 ![image_alt]()
 
