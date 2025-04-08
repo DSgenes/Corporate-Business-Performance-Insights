@@ -193,9 +193,20 @@
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/f3f14c0fa4c0311bef216d8faaa9b431d33071e0/Screenshot%2021.png)
 
-![image_alt]()
+• Create a Reference table for fact_forecast_monthly. 
+
+  Right click on fact_forecast_monthly ➜ Reference ➜ Rename to 'FactActualsAndEstimates
+
+• Select any filter on date column to create this formula.
 
 ![image_alt]()
+
+• Now I can use this formula and say my date should be greater than LastSalesMonth. My LastSalesMonth was 01/12/2021. 
+  Do the sort ascending to see the dates starts from after that.So it is starting from 1st of January, 2022.
+
+![image_alt]()
+
+•
 
 ![image_alt]()
 
