@@ -29,9 +29,9 @@
 
 # Step 1 : Data Collection and Preparation
 
-# Data Source : Database
+# Data Source : MySQL Database
 
-# Database : gdb041                                          gdb056
+# Databases : gdb041                                             gdb056
 # Tables   : 
             • dim_customer                                  • frieght_cost                                 
             • dim_market                                    • gross_price
