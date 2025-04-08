@@ -158,7 +158,7 @@
 
 • Now, I want to know about the active customers with whom we did a business in Year 2022.In the Data log its mentioned as 209.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/a56c913c5f8f98a9d4d75d60f707da25f618fa4e/Screenshot%2016.png)
 
 ![image_alt]()
 
