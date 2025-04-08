@@ -99,13 +99,25 @@
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/3277566dcc5d0d1b869011405cf2a400e8bbe487/Screenshot%208.png)
 
- ![image_alt]()
+• Add a 'New Column' as 'Start of Month' Column.
 
- ![image_alt]()
+![image_alt]()
 
- ![image_alt]()
+• Rename the column from 'Start of Month' to 'Month'. 
 
- ![image_alt]()
+# Create a 'Fiscal Year' Column
+
+• Fiscal year starts in 'September 2017'. Create a 'Custom Column'.Extract the year out of month column.
+
+• Custom Column ➜ fiscal_year ➜ Add 'Date.Year' function ➜ Insert 'month' ➜ OK
+
+![image_alt]()
+
+• 
+
+![image_alt]()
+
+![image_alt]()
 
 
 
