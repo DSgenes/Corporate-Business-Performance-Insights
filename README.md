@@ -239,7 +239,7 @@
 • You can just ignore privacy levels. Because you're working from your local computer but if you're working from an organization
   then select it as Organizational by deselecting Ignore Privacy Level, etc.
   
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/a3948aeb2069035a681d3adc57ff48f57e53c806/Screenshot%2026.png)
 
 ![image_alt]()
 
