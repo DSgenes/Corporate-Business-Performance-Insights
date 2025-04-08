@@ -75,15 +75,25 @@
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/3c44542504e6706e010a242bca62271e2b5408d3/Screenshot%204.png)
 
-• 
+• If you look at our fact_sales_monthly table , you'll see all our dates start from 1st September, 2017 till December 2022 ends.
+
+• Write this code and you'll see the nice dates coming in.
 
 ![image_alt]()
 
-•
+• To convert this list into date table.
+
+• Selecting the 'List' Column ➜ To Table ➜ OK
 
 ![image_alt]()
 
-• 
+![image_alt]()
+
+• It'll become 'Column1' to 'List'.
+
+• Right Click on 'Column1' ➜ Change Type ➜ Date
+
+• Rename Query to dim_date table.
 
 ![image_alt]()
 
