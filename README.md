@@ -101,7 +101,7 @@
 
 • Add a 'New Column' as 'Start of Month' Column.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/0f4388ce76a37a600a4a72b7278aef7cf6b14d92/Screenshot%209.png)
 
 • Rename the column from 'Start of Month' to 'Month'. 
 
@@ -113,9 +113,9 @@
 
 ![image_alt]()
 
-• 
-
 ![image_alt]()
+
+•
 
 ![image_alt]()
 
