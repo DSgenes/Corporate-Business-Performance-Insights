@@ -124,6 +124,29 @@
 
 • Close & Apply and Save all the changes.
 
+# Data Validation 
+
+# Problem Statement:
+
+  Peter(Junior Data Analyst), working under Tony’s (Manager) guidance, is tasked with ensuring the accuracy and validity of the sales database against predefined
+  benchmark figures for the fiscal year 2018. As part of this process, Peter must verify that the data used in the Power BI analysis
+  aligns with the benchmark sales numbers, particularly focusing on the 2018 total sales quantity of 3.45 million units. This involves:
+
+# Validating Data:
+
+  Verifying that the sales database is accurate and consistent with the benchmark figures provided by Nick 
+  (the product owner).
+
+# Building Visuals: 
+
+  Creating Power BI visuals that clearly display and validate sales data in relation to these benchmark numbers.
+
+# Fiscal Year Focus: 
+
+  Ensuring that all analysis is done in the context of the fiscal year, specifically aligning the data against the 
+  fiscal year structure for more accurate insights.
+
+
 ![image_alt]()
 
 ![image_alt]()
