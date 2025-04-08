@@ -93,7 +93,7 @@
 
 • Right Click on 'Column1' ➜ Change Type ➜ Date
 
-• Rename Query to dim_date table.
+• Rename Query to dim_date table. And Column1 to date.
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/656ca0bf38603646d0b3ac0523e8a91bcf4be554/Screenshot%207.png)
 
