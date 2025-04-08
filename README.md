@@ -214,8 +214,31 @@
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/b607bae4a90250f4722e47322c50aeec1ef91d31/Screenshot%2024.png)
 
+• Column 'sold_quantity' is available for all my actual dates and forecast_quantity is available for all my future dates. I want sold_quantity
+  and forecast_quantity under one column.
+
+      • Go to Remaining Forecast table ➜ Rename column forecast_quantity to Qty 
+      • Go to fact_sales_monthly table ➜ Rename column sold_quantity to Qty
+      • Rename FactActualsEstimates ➜ fact_actuals_estimates
+      
+  Now when you go to your FactActualsEstimates Table your forecast_quantity and sold_quantity column's values will be
+  placed under one column as Qty.
+
+• Move frieght_cost, gross_price, manufacturing_cost, post_invoice_deductions, pre_invoice_deductions, Remaining Forecast,
+  fact_actuals_estimates into a New Group called 'Supporting Facts'.
+
+• Adding fiscal_year in our fact_actuals_estimates table as this table didnt have a fiscal year.Use the same approach as above
+  by using a 'Custom Column' approach for fiscal_year column. Change its Data Type to be 'Text'.
+
+• So, this is my final table fact_actuals_estimates which is going to be used among all my visualizations. 
+  So I need to merge gross_price table and fact_actuals_estimates table with thses two columns product_code
+  and fiscal_year.
+
 ![image_alt]()
 
+• You can just ignore privacy levels. Because you're working from your local computer but if you're working from an organization
+  then select it as Organizational by deselecting Ignore Privacy Level, etc.
+  
 ![image_alt]()
 
 ![image_alt]()
