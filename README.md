@@ -59,21 +59,21 @@
 
 • Right Click on any of table ➜ Move to Group ➜ New Group
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/3c44542504e6706e010a242bca62271e2b5408d3/Screenshot%201.png)
 
 • Name it 'Dimesions'.Click 'OK'. Now place all the dim tables under this group by drag and drop.
 
-![image_alt]() 
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/3c44542504e6706e010a242bca62271e2b5408d3/Screenshot%202.png) 
 
 • Use the same approach for creating 'Facts' Group. And place all fact tables under this group by drag and drop.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/3c44542504e6706e010a242bca62271e2b5408d3/Screenshot%203.png)
 
 # Create a Separate Date Table 
 
 • New Source ➜ Blank Query
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/3c44542504e6706e010a242bca62271e2b5408d3/Screenshot%204.png)
 
 • 
 
