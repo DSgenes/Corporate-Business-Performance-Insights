@@ -182,7 +182,7 @@
 
 • Right click on fact_sales_monthly table ➜ Reference 
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/6886699f3349bd201e8a2add35b9be80583e7e1a/Screenshot%2019.png)
 
 • Fetch only the details of dates column.It'll get the date column for month.
 
