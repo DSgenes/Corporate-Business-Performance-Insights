@@ -111,7 +111,7 @@
 
 • Custom Column ➜ fiscal_year ➜ Add 'Date.Year' function ➜ Insert 'month' ➜ OK
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/efb5216dcd712c8469d1b9baf92967b891333afd/Screenshot%2010.png)
 
 ![image_alt]()
 
