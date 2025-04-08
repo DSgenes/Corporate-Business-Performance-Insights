@@ -174,6 +174,8 @@
 
 # Building a Table mixed with Actuals and Forecasts Values
 
+# Automation in Power BI
+
 # First Find the Current Month
 
 • One way of getting current month would be get the last date in your actual table which is fact_sales_monthly table.
@@ -195,7 +197,7 @@
 
 • Create a Reference table for fact_forecast_monthly. 
 
-  Right click on fact_forecast_monthly ➜ Reference ➜ Rename to 'FactActualsAndEstimates
+  Right click on fact_forecast_monthly ➜ Reference ➜ Rename to 'Remaining Forecast'
 
 • Select any filter on date column to create this formula.
 
@@ -206,7 +208,9 @@
 
 ![image_alt]()
 
-•
+• Create a new third table. And combined fact_sales_monthly and Remaining Forecast together by using Append Queries as New.
+
+  Click on Append Queries ➜ Append Queries as New ➜ Name it as 'FactActualsEstimates'
 
 ![image_alt]()
 
