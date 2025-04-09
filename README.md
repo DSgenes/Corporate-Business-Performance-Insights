@@ -255,7 +255,7 @@
   So if you look at Qty column if youre selling 81 for example so your gross price amount would be 81 into 13.20
   in this case.
   
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/9bb796c23cb23bba583757dd4e40e825b2f57367/Screenshot%2028.png)
 
 • Now you'll create another 'Custom Column' for gross_price_amount this is basically total amount.The first one gross_price
   column was the amount for one quantity. This column gross_price_amount contains the  price for multiple quantities.
