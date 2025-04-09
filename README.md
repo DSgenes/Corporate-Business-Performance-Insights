@@ -284,7 +284,7 @@
 
 # Naming query steps
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/56bc0e0f4404ac03dfcff2a9bc19737cedf4473d/Screenshot%2035.png)
 
 • All the steps you've done making this file give it a nice description and rename it. Hover the cursor over it and you'll see 
   the nice description.
