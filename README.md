@@ -293,8 +293,11 @@
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/a8397e99d89bfca838799602fd218e4bd6d5213f/Screenshot%2036.png)
 
+# Disable load for tables that will not be used outside Power Query
 
-
+       • This will reduce file size and improve performance.
+       • Disable load for Gross Price and Pre Invoice Discounts as they are already merged inside PQ.
+       
 ![image_alt]()
 
 
