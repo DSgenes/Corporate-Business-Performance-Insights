@@ -274,9 +274,11 @@
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/ced8cded9e654eebb4895a4356d55bebfdd149d9/Screenshot%2032.png)
 
-•
+• Add a 'Custom Column' for pre_invoice_discount_amount. Change its data type to 'Fixed decimal Number'.
 
 ![image_alt]()
+
+•
 
 ![image_alt]()
 
