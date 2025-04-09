@@ -307,5 +307,29 @@ Note : • This will reduce file size and improve performance. Keep table names 
        
 ![image_alt]()
 
+• You can't merge all the tables in Power Query it'll affect your execution loads. Like gross_price was a table with thousand 
+  rows but post_invoice_deductions take a long time to merge as it contains more than million rows. Also, you can't create 
+  calculated columns in DAX as it increases the size of your file so you use both approaches to reduce your query 
+  execution time.
 
+  Note : It is good to keep the file size as low as possible to improve the performance.
+         You can even use a combination of two methods as appropriate.
 
+# Data Modeling
+
+# Disable the Columns 
+
+• Once we establish the star schema relationships, we'll be able to look up for the customer information product_id information
+  from the Dimension table.So, its okay if you remove these columns from your fact_sales_monthly table.
+
+  Go to the Power Query ➜ Select fact_sales_monthly table ➜ Home ➜ Choose Columns ➜ Deselect the unnecessary columns.
+
+![image_alt]()
+
+• Use the same approach for fact_forecast_monthly table.
+
+  Go to the Power Query ➜ Select fact_forecast_monthly table ➜ Home ➜ Choose Columns ➜ Deselect the unnecessary columns.
+
+![image_alt]()
+
+  
