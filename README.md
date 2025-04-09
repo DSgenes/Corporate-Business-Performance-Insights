@@ -247,7 +247,7 @@
 
 • After Merging the queries, a column will be created like this.Here, it join it with the whole table.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/62ba5273786b8d34d1d61e0bd57ff25b1b0fdcf2/Screenshot%2027.png)
 
 • To expand the table, what we need to do is select this icon and just select the gross_price column to expand it.
   And you'll see it'll only fetch the values for gross_price column. Fix its data type to 'Fixed Decimal Number $'.
