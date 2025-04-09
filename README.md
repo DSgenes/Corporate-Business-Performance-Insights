@@ -227,8 +227,12 @@
 • Move frieght_cost, gross_price, manufacturing_cost, post_invoice_deductions, pre_invoice_deductions, Remaining Forecast,
   fact_actuals_estimates into a New Group called 'Supporting Facts'.
 
+# Create a Custom Column 'fiscal_year' 
+
 • Adding fiscal_year in our fact_actuals_estimates table as this table didnt have a fiscal year.Use the same approach as above
   by using a 'Custom Column' approach for fiscal_year column. Change its Data Type to be 'Text'.
+
+# Merging Queries for Two Tables
 
 • So, this is my final table fact_actuals_estimates which is going to be used among all my visualizations. 
   So I need to merge gross_price table and fact_actuals_estimates table with thses two columns product_code
@@ -241,13 +245,41 @@
   
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/a3948aeb2069035a681d3adc57ff48f57e53c806/Screenshot%2026.png)
 
+• After Merging the queries, a column will be created like this.Here, it join it with the whole table.
+
+![image_alt]()
+
+• To expand the table, what we need to do is select this icon and just select the gross_price column to expand it.
+  And you'll see it'll only fetch the values for gross_price column. Fix its data type to 'Fixed Decimal Number $'.
+  So this gross_price column contains the price of one item in that fiscal year but you're selling multiple.
+  So if you look at Qty column if youre selling 81 for example so your gross price amount would be 81 into 13.20
+  in this case.
+  
+![image_alt]()
+
+• Now you'll create another 'Custom Column' for gross_price_amount this is basically total amount.The first one gross_price
+  column was the amount for one quantity. This column gross_price_amount contains the  price for multiple quantities.
+  Change its data type to 'Fixed Decimal Number'.
+
+![image_alt]()
+
+• 
+
+![image_alt]()
+
+•
+
+![image_alt]()
+
+•
+
 ![image_alt]()
 
 ![image_alt]()
 
 ![image_alt]()
 
-
+![image_alt]()
 
 
 
