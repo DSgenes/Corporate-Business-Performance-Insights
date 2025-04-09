@@ -324,7 +324,7 @@ Note : • This will reduce file size and improve performance. Keep table names 
 
   Go to the Power Query ➜ Select fact_sales_monthly table ➜ Home ➜ Choose Columns ➜ Deselect the unnecessary columns.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/425ac3f2f6a7b7993d96b951d51e59cc343e4e0c/Screenshot%2037.png)
 
 • Use the same approach for fact_forecast_monthly table.
 
