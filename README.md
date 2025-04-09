@@ -278,11 +278,22 @@
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/ed89368b26a0b3c8099bc24d20ad9929c9d8509d/Screenshot%2033.png)
 
-•
+• Add another 'Custom Column' to 'net_invoice_sales_amount'
 
 ![image_alt]()
 
+# Naming query steps
+
 ![image_alt]()
+
+• All the steps you've done making this file give it a nice description and rename it. Hover the cursor over it and you'll see 
+  the nice description.
+
+  Right Click ➜ Properties 
+
+![image_alt]()
+
+
 
 ![image_alt]()
 
