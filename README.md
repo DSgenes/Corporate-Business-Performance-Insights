@@ -280,7 +280,7 @@
 
 • Add another 'Custom Column' to 'net_invoice_sales_amount'
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/1014d11b36d555f832a9acd1520e4a6c4df56c2d/Screenshot%2034.png)
 
 # Naming query steps
 
