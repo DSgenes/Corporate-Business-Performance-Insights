@@ -295,7 +295,14 @@
 
 # Disable load for tables that will not be used outside Power Query
 
-       • This will reduce file size and improve performance.
+• Right Click ➜ Uncheck Enable Load
+    
+    • LastSalesMonth            
+    • Remaining Forecast
+    • gross_price
+    • pre_invoice_deductions
+    
+Note : • This will reduce file size and improve performance. Keep table names minimal(remove preceding db name).
        • Disable load for Gross Price and Pre Invoice Discounts as they are already merged inside PQ.
        
 ![image_alt]()
