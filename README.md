@@ -265,8 +265,12 @@
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/69b42407a118333a6375ab85a312934c58a34ef4/Screenshot%2030.png)
 
+• Use the same approach to join another table pre_invoice_deductions with fact_actuals_estimates table using merge queries.And fix
+  its data type to percentage.
 
-•
+• So if you want to change the name of a column like 'gross_price_amount' to 'gross_sales_amount'.Go to the previous steps.
+
+![image_alt]()
 
 ![image_alt]()
 
