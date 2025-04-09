@@ -291,7 +291,7 @@
 
   Right Click ➜ Properties 
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/a8397e99d89bfca838799602fd218e4bd6d5213f/Screenshot%2036.png)
 
 
 
