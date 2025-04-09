@@ -270,7 +270,7 @@
 
 • So if you want to change the name of a column like 'gross_price_amount' to 'gross_sales_amount'.Go to the previous steps.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/bb532067e44f6f2a421a4a079e77f979ab9f1b5d/Screenshot%2031.png)
 
 ![image_alt]()
 
