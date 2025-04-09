@@ -272,7 +272,7 @@
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/bb532067e44f6f2a421a4a079e77f979ab9f1b5d/Screenshot%2031.png)
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/ced8cded9e654eebb4895a4356d55bebfdd149d9/Screenshot%2032.png)
 
 •
 
