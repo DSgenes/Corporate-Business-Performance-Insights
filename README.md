@@ -387,7 +387,7 @@ Note : • This will reduce file size and improve performance. Keep table names 
 
 • Create frieght_cost column in fact_actuals_estimates.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/5694b21822473c0cfa7f46aa2fe0d402fa6df78d/Screenshot%2051.png)
 
 •
 
