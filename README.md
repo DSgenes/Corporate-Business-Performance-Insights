@@ -403,7 +403,7 @@ Note : • This will reduce file size and improve performance. Keep table names 
 
 • Create a gross_margin_amount column in fact_actuals_estimates.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/1fec2e296c76fd6c17661f606e4556c4ee3c6cb7/Screenshot%2054.png)
 
 ![image_alt]()
 
