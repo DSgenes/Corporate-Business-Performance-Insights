@@ -383,7 +383,7 @@ Note : • This will reduce file size and improve performance. Keep table names 
 
 • Create manufacturing_cost column in fact_actuals_estimates.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/4fc943d47ccabb06c09fdeb8a85a103b84d10975/Screenshot%2050.png)
 
 • Create frieght_cost column in fact_actuals_estimates.
 
