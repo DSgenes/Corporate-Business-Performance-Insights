@@ -346,9 +346,20 @@ Note : • This will reduce file size and improve performance. Keep table names 
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/6a8adf95b539d1759a72cb27fc59b56cd3d044ce/Screenshot%2040.png)
 
-![image_alt]()
+• The entities which contains Many-to-Many relationships will drop an error message. For this you have to create another dim table.
+  This table will generate new connetions between One-to-Many relationships.
+  
+  Go to the Report View ➜ Modeling ➜ New table
+
+• In the Table View, you'll see the table we created fiscal_year.And this table has only unique rows.
 
 ![image_alt]()
+
+• Generate new connections between tables.
+
+![image_alt]()
+
+• 
 
 ![image_alt]()
 
