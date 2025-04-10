@@ -375,7 +375,7 @@ Note : • This will reduce file size and improve performance. Keep table names 
 
 • Create another column in fact_actuals_estimates table using the same approach.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/eab4eb4285d34b94f7b897ababb352c9738e14b3/Screenshot%2048.png)
 
 ![image_alt]()
 
