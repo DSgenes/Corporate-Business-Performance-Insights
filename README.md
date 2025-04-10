@@ -346,6 +346,9 @@ Note : • This will reduce file size and improve performance. Keep table names 
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/6a8adf95b539d1759a72cb27fc59b56cd3d044ce/Screenshot%2040.png)
 
+• Many-to-many relationships can complicate data management and lead to redundancy, making it difficult to ensure data integrity. It's better
+  to use a junction table to simplify the structure into One-to-Many relationships.
+
 • The entities which contains Many-to-Many relationships will drop an error message. For this you have to create another dim table.
   This table will generate new connetions between One-to-Many relationships.
   
@@ -363,7 +366,7 @@ Note : • This will reduce file size and improve performance. Keep table names 
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/609670c26b731579ae3101c58ffe2b57c666f7ce/Screenshot%2045.png)
 
-•
+• 
 
 ![image_alt]()
 
