@@ -368,6 +368,8 @@ Note : • This will reduce file size and improve performance. Keep table names 
 
 # Aggregating Columns
 
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/e8818310422cac7531f03447f0b7a81eb22d1346/Screenshot%2056.png)
+
 • Now aggregating a column post_invoice_deductions_amount in fact_actuals_estimates table.Use discounts_pct column from the post_invoice_deductions
   table. Format this column as 'Currency'.
 
