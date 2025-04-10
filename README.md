@@ -407,6 +407,23 @@ Note : • This will reduce file size and improve performance. Keep table names 
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/ec4e2673f72f3d6d33fddc3b1d787893f1e2648e/Screenshot%2059.png)
 
+# Reduce PBIX file size 
+
+• Download the DAX Studio.It has an integration with Power BI. Connect this third-party tool with Power BI and verify
+  which of the columns occupying more space.
+
+• Remove unnecessary columns to reduce pbix file size.Because in terms of data you're still connected with MySQL Database,
+  and when you need any columns it will dynamically calculate these columns. Forexample if gross_price and pre_invoice_deductions
+  columns are occupying more space and after removing them I can still calculate the net_invoice_sales even if its depended on
+  these two columns.Because these two columns are still there in your MySQL database and it'll retrieve the results through
+  calculations dynamically.
+
+• Go to Power Query Editor and remove gross_price, pre_invoice_discount_pct, pre_invoice_discount_amount.
+  Net_invoice_sales column has dependency on those two columns but nothing happened because you're still connected with 
+  your database.
+
+• Total_cogs_amount and gross_margin occupying lot of space.Delete them and we can still get it from memory.
+
 ![image_alt]()
 
 ![image_alt]()
