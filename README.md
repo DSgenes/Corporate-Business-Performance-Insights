@@ -338,7 +338,7 @@ Note : • This will reduce file size and improve performance. Keep table names 
   besides facts tables.The approach we're going to use here is known as 'Snow Flake Schema'. Create connetions between dim and fact
   tables by drag and drop the same columns among both.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/6350b39f62f341425e36c29c59c335e03859e32e/Screenshot%2041.png)
   
 ![image_alt]()
 
