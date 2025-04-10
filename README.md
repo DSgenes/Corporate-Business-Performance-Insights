@@ -351,9 +351,9 @@ Note : • This will reduce file size and improve performance. Keep table names 
   
   Go to the Report View ➜ Modeling ➜ New table
 
-• In the Table View, you'll see the table we created fiscal_year.And this table has only unique rows.
-
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/87d21b358f49f682eed4a656e3fef93674867521/Screenshot%2043.png)
+
+• In the Table View, you'll see the table we created fiscal_year.And this table has only unique rows.
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/44f5b08abe9e5474e96c6de087849e79a2027544/Screenshot%2044.png)
 
