@@ -393,4 +393,19 @@ Note : • This will reduce file size and improve performance. Keep table names 
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/278c83421a792978c28973bd6789750b430213be/Screenshot%2052.png)
 
-• 
+• Create total_cogs_amount column in fact_actuals_estimates.
+
+![image_alt]()
+
+• Create a gross_margin_amount column in fact_actuals_estimates.
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
