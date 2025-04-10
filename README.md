@@ -369,19 +369,27 @@ Note : • This will reduce file size and improve performance. Keep table names 
 # Aggregating Columns
 
 • Now aggregating a column post_invoice_deductions_amount in fact_actuals_estimates table.Use discounts_pct column from the post_invoice_deductions
-  table.
+  table. Format this column as 'Currency'.
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/8414c2d6e5a9e590e8179049dcca3cae6404c381/Screenshot%2047.png)
 
-• Create another column in fact_actuals_estimates table using the same approach.
+• Create another column in fact_actuals_estimates table using the same approach.Format this column as 'Currency'.
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/eab4eb4285d34b94f7b897ababb352c9738e14b3/Screenshot%2048.png)
 
-![image_alt]()
+• Create net_sales_amount column in fact_actuals_estimates.
 
 ![image_alt]()
 
+• Create manufacturing_cost column in fact_actuals_estimates.
+
 ![image_alt]()
+
+• Create frieght_cost column in fact_actuals_estimates.
+
+![image_alt]()
+
+•
 
 ![image_alt]()
 
