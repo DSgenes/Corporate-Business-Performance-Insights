@@ -371,7 +371,7 @@ Note : • This will reduce file size and improve performance. Keep table names 
 • Now aggregating a column post_invoice_deductions_amount in fact_actuals_estimates table.Use discounts_pct column from the post_invoice_deductions
   table.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/8414c2d6e5a9e590e8179049dcca3cae6404c381/Screenshot%2047.png)
 
 • Create another column in fact_actuals_estimates table using the same approach.
 
