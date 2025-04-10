@@ -340,7 +340,7 @@ Note : • This will reduce file size and improve performance. Keep table names 
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/6350b39f62f341425e36c29c59c335e03859e32e/Screenshot%2041.png)
   
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/dfb415ab21aa46d70a3fa8b904ea61b12996f776/Screenshot%2042.png)
 
 ![image_alt]()
 
