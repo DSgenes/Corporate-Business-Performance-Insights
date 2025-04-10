@@ -379,7 +379,7 @@ Note : • This will reduce file size and improve performance. Keep table names 
 
 • Create net_sales_amount column in fact_actuals_estimates.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/758d68feb353078b2a21081d2c8cc16f6ad44c67/Screenshot%2049.png)
 
 • Create manufacturing_cost column in fact_actuals_estimates.
 
