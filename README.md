@@ -370,7 +370,7 @@ Note : • This will reduce file size and improve performance. Keep table names 
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/e8818310422cac7531f03447f0b7a81eb22d1346/Screenshot%2056.png)
 
-• Now aggregating a column post_invoice_deductions_amount in fact_actuals_estimates table.Use discounts_pct column from the post_invoice_deductions
+• Now aggregating a column post_invoice_deductions_amount in fact_actuals_estimates table. Use discounts_pct column from the post_invoice_deductions
   table. Format this column as 'Currency'.
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/8414c2d6e5a9e590e8179049dcca3cae6404c381/Screenshot%2047.png)
@@ -382,6 +382,8 @@ Note : • This will reduce file size and improve performance. Keep table names 
 • Create net_sales_amount column in fact_actuals_estimates.
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/758d68feb353078b2a21081d2c8cc16f6ad44c67/Screenshot%2049.png)
+
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/15fcee4a01ad595c49eb16e9a5907e6986d095f2/Screenshot%2057.png)
 
 • Create manufacturing_cost column in fact_actuals_estimates.
 
