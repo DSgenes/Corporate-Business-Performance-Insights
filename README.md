@@ -332,4 +332,38 @@ Note : • This will reduce file size and improve performance. Keep table names 
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/cc9bee71f8b7f05897c2f302ce2081425a523ba5/Screenshot%2038.png)
 
+# Snow Flake Schema
+
+• Establish connections between tables in the Data Modeling view. Place all the facts tables in center and surround the dim tables
+  besides facts tables.The approach we're going to use here is known as 'Snow Flake Schema'. Create connetions between dim and fact
+  tables by drag and drop the same columns among both.
+
+![image_alt]()
   
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+![image_alt]()
+
+
