@@ -353,15 +353,15 @@ Note : • This will reduce file size and improve performance. Keep table names 
 
 • In the Table View, you'll see the table we created fiscal_year.And this table has only unique rows.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/87d21b358f49f682eed4a656e3fef93674867521/Screenshot%2043.png)
 
 • Generate new connections between tables.
 
 ![image_alt]()
 
-• 
-
 ![image_alt]()
+
+•
 
 ![image_alt]()
 
