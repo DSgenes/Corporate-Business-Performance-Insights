@@ -427,7 +427,7 @@ Note : • This will reduce file size and improve performance. Keep table names 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 # Finance View 
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/abddaf9a08b0f834f23a6cbed59abcbad4716f56/Screenshot%2060.png)
 
 # Communicating Insights : 
 
