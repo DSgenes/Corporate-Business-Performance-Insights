@@ -424,7 +424,69 @@ Note : • This will reduce file size and improve performance. Keep table names 
 
 • Total_cogs_amount and gross_margin occupying lot of space.Delete them and we can still get it from memory.
 
+---------------------------------------------------------------------------------------------------------------------------------------------
+# Finance View 
+
 ![image_alt]()
+
+# Communicating Insights : 
+
+This visual, titled "Actual and Forecast Net Sales by Month" for Fiscal Years, provides a clear time series overview of net sales performance.
+Here are the key insights:
+
+# 1. Peak and Trough Sales
+
+# Maximum Sales:
+
+Value: $108.41M
+
+Date: December 2020
+
+Insight: This indicates a strong performance possibly due to seasonal factors like year-end demand or promotions.
+
+# Minimum Sales:
+
+Value: $57.72M
+
+Date: June 2021
+
+Insight: This low could reflect an off-season, operational bottlenecks, or external factors like market shifts or policy changes.
+
+# Average Sales
+
+• The average net sales line is marked at $68.65M, acting as a benchmark.
+
+# Observation:
+
+• Sales exceeded the average in the months leading up to and including Dec 2020.
+
+• Post-Dec 2020, sales dropped and remained below average, indicating a performance dip.
+
+# Trend Analysis
+
+From Sep 2020 to Dec 2020, there's a noticeable uptrend.
+
+A sharp decline follows into early 2021.
+
+Through 2021, the sales plateau, staying relatively stable but consistently under the average.
+
+# Forecast Area
+
+The chart includes a Forecast Sales Area, but it’s faint and likely projects modest growth or stability beyond the displayed timeframe.
+
+# Business Implications:
+
+Dec 2020’s peak might serve as a case study—replicating its drivers could boost future performance.
+
+# Post-peak underperformance signals the need for investigation:
+
+• Were there market changes?
+
+• Was customer behavior different?
+
+• Did marketing efforts drop?
+
+The consistent low trend suggests strategic shifts might be needed to regain momentum.
 
 ![image_alt]()
 
