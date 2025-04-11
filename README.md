@@ -488,7 +488,7 @@ Dec 2020’s peak might serve as a case study—replicating its drivers could bo
 
 The consistent low trend suggests strategic shifts might be needed to regain momentum.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/a7afced033c95e1f4121771093f450b9a22eaa84/Screenshot%2061.png)
 
 ![image_alt]()
 
