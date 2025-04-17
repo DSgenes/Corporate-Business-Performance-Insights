@@ -427,6 +427,69 @@ Note : • This will reduce file size and improve performance. Keep table names 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 # Finance View 
 
+# Create a Static Table 
+    
+     • P & L Rows 
+       • P & L Values 
+         • Gross Sales $ 
+         • Pre Invoice Deduction $
+         • Net invoice Sales $
+         • Post Invoice Deduction $
+         • Net Sales $
+         • Manufacturing Cost $
+         • Freight Cost $ 
+         • Total Cost of Good Sold $ 
+         • Gross Margin
+         • Gross margin %
+         • Gross Margin / Unit
+         • Net Profit $     
+
+# Usability of Functions in Finance View 
+
+• CALCULATE()
+• SAMEPERIODLASTYEAR()
+• IF()
+• Create a Custom Column or Measure that applies conditions to calculate and return a result.
+• Union()
+• SWITCH(TRUE()) 
+• SELECTEDVALUE()
+• MAX()
+• HASONEVALUE()
+• RELATEDTABLE()
+• SUM()
+• SUMX()
+• DISTINCT()
+• ISBLANK()
+• ALLNOBLANKROW()
+• ISCROSSFILTERED()
+• ISFILTERED
+• DIVIDE()
+
+# Create a Separate Date Table
+
+# Usability of Fuctions to extract Years, Months, Quarters , Adding Months & Extracting Fiscal Years
+
+• YEAR()
+• DATE(year, month, day)
+
+# YTD vs YTG Overview
+
+#      YTD : 
+
+         • YTD refers to the period starting from the beginning of the current calendar or fiscal year up to the present date.
+
+#      YTG : 
+
+         • YTG represents the remaining period of the current year, from the present date until the end of the year.
+
+# Dynamic Visual Title 
+
+
+
+
+  
+
+
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/abddaf9a08b0f834f23a6cbed59abcbad4716f56/Screenshot%2060.png)
 
 # Communicating Insights : 
@@ -490,5 +553,79 @@ The consistent low trend suggests strategic shifts might be needed to regain mom
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/a7afced033c95e1f4121771093f450b9a22eaa84/Screenshot%2061.png)
 
+# Sales View 
+
 ![image_alt]()
+
+# Marketing View
+
+![image_alt]()
+
+# Supply Chain View
+
+# Key Metrics 
+
+• Forecast Accuracy % 
+• Net Error
+• ABS Error
+• Excess Inventory
+• Out of Stock 
+
+![image_alt]()
+
+----------------------------------------------------------------------------------------------------------------------
+
+# STAKEHOLDERS REVIEW MEETING
+
+#  T'Challa Tiwari : 
+           
+           T'Challa Tiwari is a decision making Powerhouse and he heads the finance operation.He loves math and he has many
+           scientific Publications on his name.He's very detail oriented person and mistakes cannot escape his eyes.
+
+#  Thor Hathodawala : 
+
+           Thor Hathodawala, people call him God of Supply Chain, and he hammered all the issues with supply chain during the
+           crazy times of COVID pandemic.He knows Power BI really well and during the meeting we can expect a lot of technical
+           questions from him and new features requests from him.
+
+#  Bruce Haryali : 
+           
+           Bruce Haryali is the sales brain of our company and signs deals with a fun, impulsive, emotional, and open approach.
+           He runs the show and would rather make quick decisions than dig into the numbers. Not a big fan of data analytics, he
+           is the most influential person, and we need to win his support at all costs. You’ll know when he doesn’t like something
+           by the look on his face.
+
+#   Carol : 
+
+           She is the coolest C level executive of AtliQ.She's very calm, composed and to the point.She's a newly appointed Chief
+           Operating Officer, and she wants to know what value we bring to a table.Impressing her will help data and analytics team
+           get more resources in the future.And remember she's going to be attending this meeting on behalf of our CEO Stan.
+
+#   Natasha : 
+
+            Natasha is a marketing genius and data enthusiasts.She knows the art of marry products with the market and enjoys the high
+            influence within the executive team.She can be a great accelerator for the successful implementation of this project.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+# Executive View 
+
+# Key Insights Per Subzone :
+     • NS
+     • GM %
+     • NP %
+     • FA %
+     • Revenue Contribution %
+     • Marketshare % 
+
+# Usability of Parameters
+     • What-if Parameters
+
+# Adding Bookmarks
+     • For GM %
+     • For NP % 
+
+# Usability of Filters & Formatting
+     • 'Top N' Products in Filters Pane
+     • Conditional Formatting 
 
