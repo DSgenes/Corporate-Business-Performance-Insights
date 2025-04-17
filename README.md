@@ -484,11 +484,8 @@ Note : • This will reduce file size and improve performance. Keep table names 
 
 # Dynamic Visual Title 
 
-
-
-
-  
-
+# Adding a Tooltip
+  • Adding a tooltip visual for finance view by hover over the static table for P & L Structure.
 
 ![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/abddaf9a08b0f834f23a6cbed59abcbad4716f56/Screenshot%2060.png)
 
