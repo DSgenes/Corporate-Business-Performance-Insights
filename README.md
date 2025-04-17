@@ -552,11 +552,11 @@ The consistent low trend suggests strategic shifts might be needed to regain mom
 
 # Sales View 
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/caeb922cab1631c95246062f4aad7419f0824cb4/Screenshot%2062.png)
 
 # Marketing View
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/caeb922cab1631c95246062f4aad7419f0824cb4/Screenshot%2063.png)
 
 # Supply Chain View
 
@@ -568,7 +568,7 @@ The consistent low trend suggests strategic shifts might be needed to regain mom
 • Excess Inventory
 • Out of Stock 
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/caeb922cab1631c95246062f4aad7419f0824cb4/Screenshot%2064.png)
 
 ----------------------------------------------------------------------------------------------------------------------
 
@@ -626,3 +626,4 @@ The consistent low trend suggests strategic shifts might be needed to regain mom
      • 'Top N' Products in Filters Pane
      • Conditional Formatting 
 
+![image_alt](https://github.com/DSgenes/Corporate-Business-Performance-Insights/blob/caeb922cab1631c95246062f4aad7419f0824cb4/Screenshot%2065.png)
